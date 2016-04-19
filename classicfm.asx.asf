@@ -1,0 +1,33 @@
+<asx version="3.0">
+<title>Classic FM</title>
+<entry>
+<title>Classic FM</title>
+<ref href="http://8623.live.streamtheworld.com:80/CLASSICFM_SC"/>
+<copyright>(c) 2016, Classic FM</copyright>
+</entry>
+<entry>
+<title>Classic FM</title>
+<ref href="http://8623.live.streamtheworld.com:3690/CLASSICFM_SC"/>
+<copyright>(c) 2016, Classic FM</copyright>
+</entry>
+<entry>
+<title>Classic FM</title>
+<ref href="http://8623.live.streamtheworld.com:443/CLASSICFM_SC"/>
+<copyright>(c) 2016, Classic FM</copyright>
+</entry>
+<entry>
+<title>Classic FM</title>
+<ref href="http://8503.live.streamtheworld.com:80/CLASSICFM_SC"/>
+<copyright>(c) 2016, Classic FM</copyright>
+</entry>
+<entry>
+<title>Classic FM</title>
+<ref href="http://8503.live.streamtheworld.com:3690/CLASSICFM_SC"/>
+<copyright>(c) 2016, Classic FM</copyright>
+</entry>
+<entry>
+<title>Classic FM</title>
+<ref href="http://8503.live.streamtheworld.com:443/CLASSICFM_SC"/>
+<copyright>(c) 2016, Classic FM</copyright>
+</entry>
+</asx>
